@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>YouTube Launcher</title>
+  <link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg">
+  <script>
+    window.location = "youtube://";
+  </script>
+</head>
+<body>
+  <p>Avvio YouTube…</p>
+</body>
+</html>
